@@ -129,8 +129,3 @@ Server will start at:
 - [ ] Expand routes (billing, pharmacy, diagnostics)  
 - [ ] Add frontend (React or Angular)  
 - [ ] Deploy with Docker + Docker Compose  
-
----
-
-🔗 Once you push, your repo will look like:  
-👉 `https://github.com/your-username/hmis-backend`
